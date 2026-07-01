@@ -1,0 +1,25 @@
+.tittel {
+    margin-top: 8cm;
+    text-align: center;
+} 
+
+.duo {
+    display: flex;
+    justify-content: center;
+    gap: 2cm;
+    align-items: center;
+}
+
+.duo > div {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    gap: 10px;
+}
+
+.bmi {
+    display: flex;
+    justify-content: center;
+}
+
+html {background-color: #FF9D23;}
